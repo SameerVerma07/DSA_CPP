@@ -43,4 +43,11 @@ happy->depositeBalance(90009);
 happy->getDetails();
 
 
+myClass Sameer;
+Sameer.SetDetails(879,"Sameer Verma");
+Sameer.Balance =12445;
+Sameer.withdrawBalance(123);
+Sameer.getDetails();
+
+
 }
